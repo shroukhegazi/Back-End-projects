@@ -1,6 +1,8 @@
-{"title": "poor", "details": "help poor people", "target": "20000", "start_date": "2021-9-12", "end_date": "2021-9-30"}
-{"title": "shrouk needs your help", "details": "help me i'm poor ", "target": "1000000", "start_date": "2021-10-3", "end_date": "2021-10-9"}
-{"title": "salma badly needs your help", "details": "Hi, it's salma khaled, she is very poor and doesn't have any money to buy clothes, please help here!", "target": "10000000000", "start_date": "2021-9-6", "end_date": "2021-9-12"}
-{"post_user_id": 1, "title": "yeah", "details": "e", "target": "", "start_date": "2021-9-12", "end_date": "2021-9-16"}
-{"post_user_id": 1, "title": "ff", "details": "hg", "target": "1234567", "start_date": "2021-9-16", "end_date": "2021-9-19"}
+[
+  {"title": "poor", "details": "help poor people", "target": "20000", "start_date": "2021-9-12", "end_date": "2021-9-30"},
+{"title": "shrouk needs your help", "details": "help me i'm poor ", "target": "1000000", "start_date": "2021-10-3", "end_date": "2021-10-9"},
+{"title": "salma badly needs your help", "details": "Hi, it's salma khaled, she is very poor and doesn't have any money to buy clothes, please help her!", "target": "10000000000", "start_date": "2021-9-6", "end_date": "2021-9-12"},
+{"post_user_id": 1, "title": "yeah", "details": "e", "target": "", "start_date": "2021-9-12", "end_date": "2021-9-16"},
+{"post_user_id": 1, "title": "ff", "details": "hg", "target": "1234567", "start_date": "2021-9-16", "end_date": "2021-9-19"},
 {"post_user_id": 1, "title": "shrouk", "details": "aaaaa", "target": "1000", "start_date": "2021-9-5", "end_date": "2021-9-10"}
+  ]
